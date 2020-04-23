@@ -1,4 +1,6 @@
 instlalasi Apache
 konfigurasi MySql
  - membuat user
+  * menambah 10 user
  - konfigurasi kebijakan
+  * only read, view
